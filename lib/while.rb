@@ -6,5 +6,4 @@ def using_while
 	#your code here
 	end
 end
-
 using_while
